@@ -1,0 +1,15 @@
+C:\Users\Plengjula\source\repos\calculate money\calculate money\bin\Debug\calculate money.exe.config
+C:\Users\Plengjula\source\repos\calculate money\calculate money\bin\Debug\calculate money.exe
+C:\Users\Plengjula\source\repos\calculate money\calculate money\bin\Debug\calculate money.pdb
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money.csprojAssemblyReference.cache
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\MainWindow.g.cs
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\App.g.cs
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money_MarkupCompile.cache
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money_MarkupCompile.lref
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\MainWindow.baml
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money.g.resources
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate_money.Properties.Resources.resources
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money.csproj.GenerateResource.cache
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money.csproj.CoreCompileInputs.cache
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money.exe
+C:\Users\Plengjula\source\repos\calculate money\calculate money\obj\Debug\calculate money.pdb
